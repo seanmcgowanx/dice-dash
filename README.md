@@ -1,12 +1,12 @@
 # Dice Dash
 
 ## Overview
-Dice Dash is a fun and interactive dice game built using React and Firestore. Players can roll dice, score points, and compete against others on a live leaderboard. With a focus on user experience, this app features Google authentication for seamless login, allowing players to track their progress and scores effortlessly.
+Dice Dash is a fun and interactive dice game built using React and Firestore. Players can roll dice, score points, and compete against others on a live leaderboard. This app features Google authentication for login, allowing players to track their progress and scores effortlessly.
 
 ## Technologies Used
 - Frontend: React
 - Backend: Firestore
-- Authentication: Firebase Authentication
+- Authentication: Google Authentication
 
 ## Files Included
 - `index.html`: The main HTML file containing the structure of the web page.
